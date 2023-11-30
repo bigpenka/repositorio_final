@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622787323460",
+    "firebase_url": "https://pruebanacional-5e00b-default-rtdb.firebaseio.com",
+    "project_id": "pruebanacional-5e00b",
+    "storage_bucket": "pruebanacional-5e00b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622787323460:android:5ad87dad2e26277e407e11",
+        "android_client_info": {
+          "package_name": "com.example.pruebanacional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5_9V1xBkFST2cVcHOqZ2cst2quDbIIZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
